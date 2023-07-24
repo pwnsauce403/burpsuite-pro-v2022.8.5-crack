@@ -26,6 +26,7 @@ step by step
 **1.**
 - Install Java yang sudah kalian download
 - Setelah itu install JDK
+- Jangan lupa untuk menginstall burpsuite_pro.jar link tersedia diatas
 - Lalu baru install Burp Suite Pro v2022.8.5, dan untuk pathnya default saja yaitu di **C:\Users\\AppData\Local\Programs\BurpSuitePro**
 	
 **2.**
