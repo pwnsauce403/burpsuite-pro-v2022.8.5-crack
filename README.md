@@ -30,10 +30,10 @@ step by step
 - Lalu baru install Burp Suite Pro v2022.8.5, dan untuk pathnya default saja yaitu di **C:\Users\user_kalian\AppData\Local\Programs\BurpSuitePro**
 	
 **2.**
-- Copy 3 file (**burpsuite_pro.jar, BurpLoaderKeygen.jar, burp.bat**) lalu paste ke dalam folder installasi Burp Suite Pro
+- Copy 3 file (**burpsuite_pro.jar, BurpLoaderKeygen.jar, burp.bat**) lalu paste ke dalam folder instalasi Burp Suite Pro
 	
 **3.**
-- Buka cmd melalu folder installasi Burp Suite Pro (melalui path bar lalu ketikan CMD dan tekan enter, jika kebingungan bisa lihat seperti di video)
+- Buka cmd melalu folder instalasi Burp Suite Pro (melalui path bar lalu ketikan CMD dan tekan enter, jika kebingungan bisa lihat seperti di video)
 		
 **4.**
 - ketik ini pada CMD lalu enter
