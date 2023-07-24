@@ -6,12 +6,18 @@
 #### Download && install burpsuite pro 2022.8.5:
 
 - [BurpSuit Professional / Community 2022.8.5](https://portswigger.net/burp/releases/professional-community-2022-8-5?requestededition=professional)
+- [burpsuite_pro.jar](https://www.mediafire.com/file/edtkvb4phqztnl8/burpsuite_pro.jar/file)
 
 
 #### Download && install Java and JDK:
 
 - [Java](https://www.java.com/en/download/)
 - [JDK](https://www.oracle.com/id/java/technologies/downloads/#jdk20-windows)
+
+
+#### Youtube Video
+
+- [Youtube Video](https://www.youtube.com/watch?v=VdGUb_e1_cQ)
 
 
 step by step
