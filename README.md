@@ -58,7 +58,8 @@ java -jar BurpLoaderKeygen.jar
      lanjut ke proses loader untuk Burp Suite Pro nya
 	
 **6.**
-- buka **burp.bat** menggunakan notepad dan ganti versi Java JDK sesuai dengan versi milik kalian, seperti divideo (C:\Program Files\Java\sesuaikan-dengan-versi-kalian\bin\java.exe)
+- buka **burp.bat** menggunakan notepad dan ganti versi Java JDK sesuai dengan versi milik kalian, seperti divideo
+  (C:\Program Files\Java\sesuaikan-dengan-versi-kalian\bin\java.exe)
 - lalu save dan jalankan **burp.bat** jika berhasil maka Burp Suite Professional sudah bisa digunakan.
 	
 **END**
