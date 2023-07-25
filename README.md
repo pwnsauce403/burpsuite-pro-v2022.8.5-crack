@@ -61,6 +61,9 @@ java -jar BurpLoaderKeygen.jar
 - buka **burp.bat** menggunakan notepad dan ganti versi Java JDK sesuai dengan versi milik kalian, seperti divideo
   (C:\Program Files\Java\sesuaikan-dengan-versi-kalian\bin\java.exe)
 - lalu save dan jalankan **burp.bat** jika berhasil maka Burp Suite Professional sudah bisa digunakan.
-	
+
+
+**BurpSuite Professional LATEST for Kali Linux / Linux**
+- [BurpSuite Professional LATEST for Kali Linux / Linux](https://github.com/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked/tree/main/BurpSuitePro_%2B_BurpBountyPro_v2.6.1_%2B_Extensions)
 **END**
 ---------------
