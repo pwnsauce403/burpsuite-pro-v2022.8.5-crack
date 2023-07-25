@@ -3,7 +3,7 @@
 
 ------------
 
-#### Mixed Crack Method by Me :>
+#### Mixed Crack Method by me :>
 #### Source From:
 - [GTekSD](https://github.com/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked)
 - [bewhale](https://github.com/bewhale/BurpLoaderKeygen-Modified)
