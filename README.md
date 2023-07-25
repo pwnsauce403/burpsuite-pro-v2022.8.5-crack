@@ -3,6 +3,13 @@
 
 ------------
 
+#### Mixed Crack Method by Me :>
+#### Source From:
+- [GTekSD](https://github.com/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked)
+- [bewhale](https://github.com/bewhale/BurpLoaderKeygen-Modified)
+- [burp.dat & reset_license.bat](https://t.me/SUcRACk3R)
+
+
 #### Download && install burpsuite pro 2022.8.5:
 
 - [BurpSuit Professional / Community 2022.8.5](https://portswigger.net/burp/releases/professional-community-2022-8-5?requestededition=professional)
