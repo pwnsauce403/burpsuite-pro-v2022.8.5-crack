@@ -49,12 +49,12 @@ java -jar BurpLoaderKeygen.jar
 ```
 
 **5.**
-- 1. kalian boleh ganti **licensed to bewhale** menjadi nama kalian
-- 2. Copy License key nya dan paste lalu klik **Run** maka secara otomatis window Burp Suite Pro akan muncul.
-- 3. Pastekan License key yang sudah kalian copy tadi pada kolom **Enter License Key** lalu next.
-- 4. Selanjutnya pilih **Manual Activation**
-- 5. Selanjutnya copy requestnya dan pastekan pada kolom **Activation Request** pada BurpSuite Pro Loader&Keygen yang tadi
-- 6. Lalu copy Activation Requestnya dan pastekan kembali pada Burp Suite Professional dan klik next maka proses cracknya sudah selesai,
+- kalian boleh ganti **licensed to bewhale** menjadi nama kalian
+- Copy License key nya dan paste lalu klik **Run** maka secara otomatis window Burp Suite Pro akan muncul.
+- Pastekan License key yang sudah kalian copy tadi pada kolom **Enter License Key** lalu next.
+- Selanjutnya pilih **Manual Activation**
+- Selanjutnya copy requestnya dan pastekan pada kolom **Activation Request** pada BurpSuite Pro Loader&Keygen yang tadi
+- Lalu copy Activation Requestnya dan pastekan kembali pada Burp Suite Professional dan klik next maka proses cracknya sudah selesai,
      lanjut ke proses loader untuk Burp Suite Pro nya
 	
 **6.**
