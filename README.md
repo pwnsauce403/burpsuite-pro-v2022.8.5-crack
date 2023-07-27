@@ -49,7 +49,7 @@ java -jar BurpLoaderKeygen.jar
 ```
 
 **5.**
-- kalian boleh ganti **licensed to bewhale** menjadi nama kalian
+- kalian bisa ganti **licensed to bewhale** menjadi nama kalian
 - Copy License key nya dan paste lalu klik **Run** maka secara otomatis window Burp Suite Pro akan muncul.
 - Pastekan License key yang sudah kalian copy tadi pada kolom **Enter License Key** lalu next.
 - Selanjutnya pilih **Manual Activation**
@@ -60,7 +60,7 @@ java -jar BurpLoaderKeygen.jar
 **6.**
 - buka **burp.bat** menggunakan notepad dan ganti versi Java JDK sesuai dengan versi milik kalian, seperti divideo
   (C:\Program Files\Java\sesuaikan-dengan-versi-kalian\bin\java.exe)
-- lalu save dan jalankan **burp.bat** jika berhasil maka Burp Suite Professional sudah bisa digunakan.
+- lalu save dan jalankan **burp.bat** dan Burp Suite Professional sudah bisa digunakan.
 
 
 **BurpSuite Professional LATEST for Linux**
