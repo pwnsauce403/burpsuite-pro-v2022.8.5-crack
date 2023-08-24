@@ -22,7 +22,7 @@
 - [JDK](https://www.oracle.com/id/java/technologies/downloads/#jdk20-windows)
 
 
-#### Youtube Video
+#### Youtube Video:
 
 - [Youtube Video](https://www.youtube.com/watch?v=VdGUb_e1_cQ)
 
